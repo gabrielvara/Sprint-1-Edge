@@ -5,6 +5,8 @@
 Fórmula E 
 Desenvolvemos atráves de IOT um sistema capaz de aumentar a interação dos espectadores com as corridas, onde no final da corrida ou em momentos específicos uma sequência de luzes na arquibancada é acionada que poderá ser vista através das transmissões de forma muito interativa.
 
+Vídeo de exibição: https://youtu.be/nFej_gE7RgE?si=FXJV2U1PnVG6fqxp
+
 ## Funcionalidades
 
 - Sistema de detecção de movimento
